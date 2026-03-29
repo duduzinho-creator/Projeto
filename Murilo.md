@@ -51,3 +51,11 @@
 * ### Integração com sensores IoT:
 
     Conexão com sensores inteligentes para coleta automática de dados ambientais.
+
+* ### Dashboard de monitoramento:
+
+    Painel central com visualização em tempo real dos principais indicadores da estufa.
+
+* ### Histórico de irrigação:
+
+    Registro detalhado de todas as irrigações realizadas.
