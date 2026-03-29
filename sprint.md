@@ -2,7 +2,7 @@
 
 > **Status:** 🔵 Em Planejamento
 > **Período:** 01/03/2024 a 15/03/2024
-> **Squad:** Eduardo, Murilo e Guilherme
+> **Squad:** Eduardo Centenaro , Murilo e Guilherme Pinto 
 
 ---
 
