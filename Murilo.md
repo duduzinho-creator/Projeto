@@ -67,3 +67,11 @@
 * ### Monitoramento de umidade do ar:
 
     Acompanhamento contínuo da umidade relativa do ar.
+
+* ### Cadastro de sensores:
+
+    Funcionalidade para registrar e configurar novos sensores no sistema.
+
+* ### Monitoramento de umidade do solo:
+
+    Medição constante da umidade presente no solo.
