@@ -35,3 +35,11 @@
 * ### Ajuste manual de iluminação:
 
     Permite ao usuário controlar manualmente a intensidade e horários da iluminação.
+
+* ### Ajuste manual de irrigação:
+
+    Controle manual da quantidade e frequência de irrigação.
+
+* ### Controle remoto da estufa:
+
+    Acesso remoto para monitorar e controlar funções da estufa via internet.
