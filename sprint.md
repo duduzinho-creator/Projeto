@@ -1,4 +1,4 @@
-# 📑 Sprint 01 - Greenhouse System 🌿
+# 📑 Sprint 01 - Greenhouse System 
 
 > **Status:** 🔵 Em Planejamento
 > **Período:** 01/03/2024 a 15/03/2024
@@ -6,26 +6,26 @@
 
 ---
 
-## 🎯 Objetivo da Sprint
+## Objetivo da Sprint
 Estabelecer a infraestrutura de **Autenticação** e o **Monitoramento Base** (Leitura de Sensores) para garantir que os dados cheguem ao sistema.
 
 ---
 
-## 📋 Quadro de Tarefas (Sprint Backlog)
+##  Quadro de Tarefas (Sprint Backlog)
 
-### 👤 Eduardo (Backend & Security)
+### Eduardo (Backend & Security)
 - [ ] Criar estrutura do Banco de Dados (Usuários e Logs)
 - [ ] Implementar **Sistema de Login** (API)
 - [ ] Configurar **Autenticação de Usuários** (JWT/Middleware)
 - [ ] Endpoint para **Registro de dados dos sensores**
 
-### 👤 Murilo (IoT & Firmware)
+###  Murilo (IoT & Firmware)
 - [ ] Configuração do hardware (ESP32/Arduino)
 - [ ] Implementar **Monitoramento de temperatura** (Leitura física)
 - [ ] Implementar **Monitoramento de umidade do ar**
 - [ ] Lógica para **Cadastro de sensores** no firmware
 
-### 👤 Guilherme (Frontend & UI)
+### Guilherme (Frontend & UI)
 - [ ] Desenvolver Tela de Login e Cadastro
 - [ ] Criar **Dashboard de monitoramento** (Cards de leitura)
 - [ ] Implementar interface para **Cadastro de atuadores**
@@ -33,7 +33,7 @@ Estabelecer a infraestrutura de **Autenticação** e o **Monitoramento Base** (L
 
 ---
 
-## 📊 Acompanhamento de Prioridades
+## Acompanhamento de Prioridades
 
 
 | Tarefa | Responsável | Prioridade | Status |
@@ -47,7 +47,7 @@ Estabelecer a infraestrutura de **Autenticação** e o **Monitoramento Base** (L
 
 ---
 
-## 🛠️ Stack Tecnológica Utilizada
+##  Stack Tecnológica Utilizada
 - **Linguagens:** [Ex: TypeScript / Python / C++]
 - **Banco de Dados:** [Ex: PostgreSQL / MongoDB]
 - **Hardware:** [Ex: ESP32 / DHT22]
@@ -55,6 +55,6 @@ Estabelecer a infraestrutura de **Autenticação** e o **Monitoramento Base** (L
 
 ---
 
-## 📝 Notas de Reunião (Daily)
+##  Notas de Reunião (Daily)
 *   **01/03:** Definição das tecnologias e divisão de pastas do repositório.
 *   **03/03:** Eduardo inicia a rota de login; Murilo testa sensores DHT.
