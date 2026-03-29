@@ -1,4 +1,4 @@
-# 📑 Sprint 01 - Greenhouse System 
+# Sprint 01 - Greenhouse System 
 
 > **Status:** 🔵 Em Planejamento
 > **Período:** 01/03/2024 a 15/03/2024
