@@ -59,3 +59,11 @@
 * ### Histórico de irrigação:
 
     Registro detalhado de todas as irrigações realizadas.
+
+* ### Autenticação de usuários:
+
+    Sistema de verificação de identidade para garantir acesso seguro.
+
+* ### Monitoramento de umidade do ar:
+
+    Acompanhamento contínuo da umidade relativa do ar.
