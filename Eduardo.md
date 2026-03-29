@@ -47,3 +47,4 @@ Painel visual centralizado com os principais indicadores e status do sistema.
 
 ### Detecção de falhas nos sensores:
  Rotina de verificação para identificar dispositivos offline ou com leituras inconsistentes.
+ 
