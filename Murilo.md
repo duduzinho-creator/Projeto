@@ -27,3 +27,11 @@
 * ### Sistema de recomendação de cultivo:
 
     Sugere práticas ideais de cultivo com base em dados coletados e condições ambientais.
+
+* ### Alertas de umidade baixa:
+
+    Notificações automáticas quando a umidade atinge níveis críticos.
+
+* ### Ajuste manual de iluminação:
+
+    Permite ao usuário controlar manualmente a intensidade e horários da iluminação.
